@@ -993,7 +993,7 @@ mlb_id,mlb_name,mlb_pos,bats,throws,birth_date,bp_id,bref_id,bref_name,cbs_id,cb
 623515,Drew Jackson,SS,R,R,7/28/1993,106191,jacksdr01,Drew Jackson,2211773,Drew Jackson,SS,35034,Drew Jackson,SS,17807,Drew Jackson,OF,,10586,Drew Jackson,SS,,,10586,Drew Jackson,23595,Drew Jackson,2B/SS,14031,,,
 543482,Drew Maggi,3B,R,R,5/16/1989,,,,,,,,,,,,,,,,,,,,,,,,,,,
 519141,Drew Pomeranz,P,R,L,11/22/1988,68404,pomerdr01,Drew Pomeranz,1765810,Drew Pomeranz,RP,31010,Drew Pomeranz,RP,11426,Drew Pomeranz,P,pomerdr01,9068,Drew Pomeranz,P,pomed001,Drew Pomeranz,9068,Drew Pomeranz,18095,Drew Pomeranz,SP/RP,11436,Drew Pomeranz,P,
-656876,Drew Rasmussen,P,R,R,7/27/1995,,rasmudr01,Drew Rasmussen,2837374,Drew Rasmussen,RP,42584,Drew Rasmussen,RP,,,,,,,,,,,,,,,,,,
+656876,Drew Rasmussen,P,R,R,7/27/1995,,,Drew Rasmussen,,Drew Rasmussen,P,,Drew Rasmussen,P,25385,Drew Rasmussen,P,,,Drew Rasmussen,P,,Drew Rasmussen,11789,Drew Rasmussen,,Drew Rasmussen,P,,Drew Rasmussen,P
 592685,Drew Robinson,CF,L,R,4/20/1992,67094,robindr01,Drew Robinson,2046497,Drew Robinson,CF,31938,Drew Robinson,LF,11761,Drew Robinson,OF,robindr01,10658,Drew Robinson,CF,robid003,Drew Robinson,10658,Drew Robinson,14383,Drew Robinson,OF,11654,Drew Robinson,OF,
 607968,Drew Rucinski,P,R,R,12/30/1988,70168,rucindr01,Drew Rucinski,2136146,Drew Rucinski,RP,33619,Drew Rucinski,RP,12499,Drew Rucinski,P,rucindr01,9763,Drew Rucinski,P,rucid001,Drew Rucinski,9763,Drew Rucinski,18437,Drew Rucinski,RP,13575,Drew Rucinski,P,
 622098,Drew Smith,P,R,R,9/24/1993,106928,smithdr01,Drew Smith,2453269,Drew Smith,RP,39685,Drew Smith,RP,17755,Drew Smith,P,smithdr01,11050,Drew Smith,P,smitd009,Drew Smith,11050,Drew Smith,22713,Drew Smith,RP,15548,Evan Phillips,P,
