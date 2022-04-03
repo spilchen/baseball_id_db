@@ -1,9 +1,10 @@
 #!/usr/bin/env python
 
 
-mlb_id=""
 print("name: ")
 mlb_name=input()
+print("mlb id: ")
+mlb_id=input()
 print("pos: ")
 mlb_pos=input()
 print("bats: ")
