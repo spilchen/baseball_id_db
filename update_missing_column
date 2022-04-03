@@ -1,0 +1,39 @@
+#!/usr/bin/env python
+
+"""A utility to fill in missing fields for players in master.csv
+
+Usage:
+  update_missing_column [-c <name>] <player_name> <missing_val>
+
+  <player_name>  Name of the player to update
+  <missing_val>  Value of the missing column
+
+Options:
+  -c, --column=x  The name of the column that we want to fill in.  [Default: yahoo_id]
+"""
+
+from docopt import docopt
+import pandas as pd
+import tempfile
+import os
+
+
+if __name__ == '__main__':
+    args = docopt(__doc__, version='1.0')
+
+    v = pd.read_csv('master.csv')
+    v.loc[v.mlb_name == args['<player_name>'], (args['--column'])] = args['<missing_val>']
+    tmp = tempfile.NamedTemporaryFile(delete=False)
+    try:
+        v.loc[v.mlb_name == args['<player_name>']].to_csv(
+                tmp,
+                header=False,
+                index=False)
+    finally:
+        tmp.close()
+        with open(tmp.name, 'r') as f:
+            for l in f.readlines():
+                l = l.replace(".0,", ",")
+                print(l, end='')
+        os.unlink(tmp.name)
+
