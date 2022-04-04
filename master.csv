@@ -2230,7 +2230,7 @@ mlb_id,mlb_name,mlb_pos,bats,throws,birth_date,bp_id,bref_id,bref_name,cbs_id,cb
 571970,Max Muncy,1B,L,R,8/25/1990,100007,muncyma01,Max Muncy,2106304,Max Muncy,1B,33303,Max Muncy,2B,13301,Max Muncy,1B,muncyma01,9606,Max Muncy,1B,muncm001,Max Muncy,9606,Max Muncy,18255,Max Muncy,1B/2B/3B,13211,Max Muncy,2B,
 605428,Max Povse,P,R,R,8/23/1993,71204,povsema01,Max Povse,2449980,Max Povse,RP,36072,Max Povse,SP,16165,Max Povse,P,povsema01,10590,Max Povse,P,povsm001,Max Povse,10590,Max Povse,29631,Max Povse,RP,13464,Max Povse,P,
 453286,Max Scherzer,P,R,R,7/27/1984,56753,scherma01,Max Scherzer,1225651,Max Scherzer,SP,28976,Max Scherzer,SP,3137,Max Scherzer,P,scherma01,8193,Max Scherzer,P,schem001,Max Scherzer,8193,Max Scherzer,4514,Max Scherzer,SP,9278,Max Scherzer,P,
-621011,Max Schrock,2B,L,R,10/12/1994,,schroma01,Max Schrock,,,,,,,,,,,,,,,,,,,,,,,,
+621011,Max Schrock,2B,L,R,10/12/1994,,schroma01,Max Schrock,,,,,,,17750,,,,,,,,,10547,,,,,,,,
 545358,Max Stassi,C,R,R,3/15/1991,59431,stassma01,Max Stassi,1727686,Max Stassi,C,30429,Max Stassi,C,10059,Max Stassi,C,stassma01,9496,Max Stassi,C,stasm001,Max Stassi,9496,Max Stassi,8542,Max Stassi,C,10971,Max Stassi,C,
 515052,Mayckol Guaipe,P,R,R,8/11/1990,56393,guaipma01,Mayckol Guaipe,2159841,Mayckol Guaipe,RP,33607,Mayckol Guaipe,RP,11663,Mayckol Guaipe,P,guaipma01,9981,Mayckol Guaipe,P,guaim001,Mayckol Guaipe,9981,Mayckol Guaipe,9607,Mayckol Guaipe,SP/RP,13672,Mayckol Guaipe,P,
 650619,Meibrys Viloria,C,L,R,2/15/1997,104290,vilorme01,Meibrys Viloria,2506928,Meibrys Viloria,C,39810,Meibrys Viloria,C,17109,Meibrys Viloria,C,vilorme01,11149,Meibrys Viloria,C,vilom001,Meibrys Viloria,11149,Meibrys Viloria,21678,Meibrys Viloria,C,14468,Meibrys Viloria,C,
