@@ -1,0 +1,12 @@
+#!/bin/bash
+
+
+while true
+do
+    wget --no-check-certificate -O downloaded_master.csv https://raw.githubusercontent.com/spilchen/baseball_id_db/main/master.csv
+    if diff -U2 downloaded_master.csv master.csv
+    then
+      break
+    fi
+    sleep 5
+done
